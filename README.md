@@ -6,3 +6,5 @@
 
 #來自小魚  
 <https://www.kaggle.com/code/smolfish/eda-us-stock-market-2020-2024/notebook>
+
+<https://huggingface.co/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated>
